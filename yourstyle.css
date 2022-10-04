@@ -1,0 +1,70 @@
+body{
+    background-image: url(https://libreshot.com/wp-content/uploads/2016/03/coffee-beans-861x631.jpg);
+    background-size: 1300px;
+
+}
+.menu{
+    background-color: rgb(208, 109, 43);
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
+header{
+    
+        font-family: cursive;
+      
+}
+p{
+    font-style: italic;
+    font-size: small;
+}
+hr{
+    max-width: 85%;
+    height: 2px;
+    background-color: rgb(178, 85, 22);
+    border-color: rgb(178, 85, 22);
+}
+.coffeecup{
+    width: 50px;
+    height: 50px;
+}
+.coffee{
+    width: 75%;
+    text-align: left;
+    
+}
+
+.price{
+    width: 25%;
+    text-align: right;
+}
+
+table{
+    text-align: center;
+    max-width: 500px;
+}
+tr{
+    color: rgb(245, 252, 45);
+    
+}
+.cakepeice{
+    width: 45px;
+    height: 45px;
+}
+.cake{
+    width: 75%;
+    text-align: left;
+}
+
+.price1{
+    text-align: right;
+    width: 25%;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
